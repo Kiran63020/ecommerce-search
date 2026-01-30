@@ -3,8 +3,10 @@ The service is designed for scenarios where the product catalog can contain thou
 In-memory product catalog (1000+ products)
 
 key features:
+
 *Inverted index for fast candidate retrieval
 *Query understanding with:
+
 *Hinglish intent (e.g. sasta, cheap)
 *Price constraints (e.g. 50k)
 *Color & storage filters
